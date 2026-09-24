@@ -1,0 +1,19 @@
+# Bioinformática e Dados
+*.zip
+*.tar.gz
+*.gz
+*.fasta
+*.fastq
+*.bam
+*.sam
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Sistema
+.DS_Store
